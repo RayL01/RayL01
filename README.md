@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayl01" alt="rayl01" /></a> </p>
 
 - 📫 How to reach me **wooshadyyy@gmail.com**
-- 💼 Personal website: [Your Website]([https://www.yourwebsite.com](https://hongrui-liu.com/))
+- 💼 Personal website: [Ray Liu]([https//hongrui-liu.com])
 
 
 
